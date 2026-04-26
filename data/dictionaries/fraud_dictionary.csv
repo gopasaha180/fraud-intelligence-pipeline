@@ -1,0 +1,104 @@
+keyword,fraud_family
+shell company,money_laundering
+shell companies,money_laundering
+shell corporation,money_laundering
+front company,money_laundering
+money mule,money_laundering
+mule account,money_laundering
+layering,money_laundering
+structuring,money_laundering
+smurfing,money_laundering
+placement,money_laundering
+beneficial owner,money_laundering
+check fraud,check_fraud
+mail theft,check_fraud
+stolen check,check_fraud
+stolen checks,check_fraud
+check washing,check_fraud
+fraudulent check,check_fraud
+altered check,check_fraud
+forged check,check_fraud
+sanctions evasion,sanctions
+sanctioned entity,sanctions
+export control violation,sanctions
+terrorist financing,terrorist_financing
+terrorist organization,terrorist_financing
+human trafficking,human_trafficking
+labor trafficking,human_trafficking
+romance scam,consumer_fraud
+lottery scam,consumer_fraud
+charity fraud,consumer_fraud
+investment scam,consumer_fraud
+scam,consumer_fraud
+fraudster,consumer_fraud
+gift card scam,consumer_fraud
+imposter scam,consumer_fraud
+advance fee,consumer_fraud
+government impersonator,consumer_fraud
+business impersonator,consumer_fraud
+identity theft,identity_fraud
+stolen identity,identity_fraud
+synthetic identity,identity_fraud
+account takeover,identity_fraud
+identity document,identity_fraud
+credential theft,identity_fraud
+ssn,identity_fraud
+government benefits fraud,benefits_fraud
+medicaid fraud,benefits_fraud
+pandemic relief fraud,benefits_fraud
+unemployment fraud,benefits_fraud
+ransomware,cybercrime
+phishing,cybercrime
+smishing,cybercrime
+vishing,cybercrime
+malware,cybercrime
+data breach,cybercrime
+credential stuffing,cybercrime
+social engineering,cybercrime
+business email compromise,cybercrime
+bec,cybercrime
+spear phishing,cybercrime
+dark web,cybercrime
+virtual currency,crypto_fraud
+cryptocurrency,crypto_fraud
+crypto exchange,crypto_fraud
+crypto wallet,crypto_fraud
+pig butchering,crypto_fraud
+wallet address,crypto_fraud
+bitcoin,crypto_fraud
+ethereum,crypto_fraud
+rug pull,crypto_fraud
+wallet,crypto_fraud
+personal data,data_privacy
+coppa,data_privacy
+privacy rule,data_privacy
+privacy violation,data_privacy
+unauthorized disclosure,data_privacy
+sensitive data,data_privacy
+pii,data_privacy
+data protection,data_privacy
+personally identifiable,data_privacy
+prompt injection,ai_fraud
+deepfake,ai_fraud
+ai scam,ai_fraud
+ai-generated fraud,ai_fraud
+llm exploit,ai_fraud
+ai recommendation poisoning,ai_fraud
+hidden prompt,ai_fraud
+generative ai fraud,ai_fraud
+fentanyl,drug_trafficking
+narcotic,drug_trafficking
+cocaine,drug_trafficking
+heroin,drug_trafficking
+opioid,drug_trafficking
+drug distribution,drug_trafficking
+drug trafficking,drug_trafficking
+controlled substance,drug_trafficking
+ponzi,securities_fraud
+investment fraud,securities_fraud
+securities fraud,securities_fraud
+hedge fund fraud,securities_fraud
+stock manipulation,securities_fraud
+insider trading,securities_fraud
+pyramid scheme,securities_fraud
+unregistered securities,securities_fraud

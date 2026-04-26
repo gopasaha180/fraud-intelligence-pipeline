@@ -1,0 +1,41 @@
+fincen_id,title,doc_type,date,text_length_raw,text_length_clean,method,ocr_pages,page_count
+FIN-2026-Alert001,FIN-2026-Alert001,Alert,01/09/2026,14280,12818,native_plus_ocr_fallback,0,5
+FIN-2023-Alert001,FIN-2023-Alert001,Alert,01/13/2023,31878,31161,native_plus_ocr_fallback,0,10
+FIN-2023-Alert002,FIN-2023-Alert002,Alert,01/25/2023,34306,31186,native_plus_ocr_fallback,0,11
+FIN-2024-Alert001,FIN-2024-Alert001,Alert,02/01/2024,6497,5380,native_plus_ocr_fallback,0,2
+FIN-2021-A001,FinCEN Advisory FIN-2021-A001,Advisory,02/02/2021,22744,19063,native_plus_ocr_fallback,0,8
+FIN-2025-CTA1,FIN-2025-CTA1,Notice,02/18/2025,3454,3452,native_plus_ocr_fallback,0,2
+FIN-2021-A002,FinCEN Advisory FIN-2021-A002,Advisory,02/24/2021,14623,14209,native_plus_ocr_fallback,0,6
+FIN-2023-Alert003,FIN-2023-Alert003,Alert,02/27/2023,23098,19958,native_plus_ocr_fallback,0,8
+FIN-2022-Alert001,FIN-2022-Alert001,Alert,03/07/2022,29739,29480,native_plus_ocr_fallback,0,10
+FIN-2021-A003,FinCEN Advisory FIN-2021-A003,Advisory,03/11/2021,14537,14170,native_plus_ocr_fallback,0,5
+FIN-2022-Alert002,FIN-2022-Alert002,Alert,03/16/2022,35999,33518,native_plus_ocr_fallback,0,12
+FIN-2026-A001,FinCEN Advisory FIN-2026-A001,Advisory,03/30/2026,48996,46594,native_plus_ocr_fallback,0,18
+FIN-2025-Alert001,FIN-2025-Alert001,Alert,03/31/2025,21185,18622,native_plus_ocr_fallback,0,7
+FIN-2025-A001,FinCEN Advisory FIN-2025-A001,Advisory,04/01/2025,52069,47258,native_plus_ocr_fallback,0,15
+FIN-2022-A001,FinCEN Advisory FIN-2022-A001,Advisory,04/14/2022,43090,37439,native_plus_ocr_fallback,0,13
+FIN-2024-NTC1,FIN-2024-NTC1,Notice,04/15/2024,28088,27269,native_plus_ocr_fallback,0,12
+FIN-2025-Alert002,FIN-2025-Alert002,Alert,05/01/2025,42289,38323,native_plus_ocr_fallback,0,13
+FIN-2024-A001,FinCEN Advisory FIN-2024-A001,Advisory,05/08/2024,63746,59522,native_plus_ocr_fallback,0,17
+FIN-2023-Alert004,FIN-2023-Alert004,Alert,05/19/2023,39199,38231,native_plus_ocr_fallback,0,12
+FIN-2025-A002,FinCEN Advisory FIN-2025-A002,Advisory,06/06/2025,53650,49309,native_plus_ocr_fallback,0,18
+FIN-2022-A002,FinCEN Advisory FIN-2022-A002,Advisory,06/15/2022,46372,46038,native_plus_ocr_fallback,0,15
+FIN-2024-A002,FinCEN Advisory FIN-2024-A002,Advisory,06/20/2024,54295,47487,native_plus_ocr_fallback,0,15
+FIN-2022-Alert003,FIN-2022-Alert003,Alert,06/28/2022,30927,28798,native_plus_ocr_fallback,0,10
+FIN-2024-Alert002,FIN-2024-Alert002,Alert,07/11/2024,11567,11475,native_plus_ocr_fallback,0,4
+FIN-2024-NTC2,FIN-2024-NTC2,Notice,07/16/2024,43432,41497,native_plus_ocr_fallback,0,14
+FIN-2025-NTC001,FIN-2025-NTC001,Notice,08/04/2025,38856,32536,native_plus_ocr_fallback,0,12
+FIN-2023-NTC1,FIN-2023-NTC1,Notice,08/15/2023,24917,24900,native_plus_ocr_fallback,0,10
+FIN-2025-A003,FinCEN Advisory FIN-2025-A003,Advisory,08/28/2025,48042,44194,native_plus_ocr_fallback,0,15
+FIN-2023-Alert005,FIN-2023-Alert005,Alert,09/08/2023,26921,24394,native_plus_ocr_fallback,0,9
+FIN-2025-NTC2,FIN-2025-NTC2,Notice,09/08/2025,33171,32544,native_plus_ocr_fallback,0,12
+FIN-2020-A008,FinCEN Advisory FIN-2020-A008,Advisory,10/15/2020,31659,29890,native_plus_ocr_fallback,0,11
+FIN-2023-Alert006,FIN-2023-Alert006,Alert,10/20/2023,9655,8414,native_plus_ocr_fallback,0,3
+FIN-2024-Alert003,FIN-2024-Alert003,Alert,10/23/2024,28064,23732,native_plus_ocr_fallback,0,8
+FIN-2020-A009,FinCEN Advisory FIN-2020-A009,Advisory,11/06/2020,12088,10332,native_plus_ocr_fallback,0,4
+FIN-2023-NTC2,FIN-2023-NTC2,Notice,11/06/2023,26030,23590,native_plus_ocr_fallback,0,9
+FIN-2021-A004,FinCEN Advisory FIN-2021-A004,Advisory,11/08/2021,32706,30432,native_plus_ocr_fallback,0,11
+FIN-2024-Alert004,FIN-2024-Alert004,Alert,11/13/2024,20869,18915,native_plus_ocr_fallback,0,6
+FIN-2023-Alert007,FIN-2023-Alert007,Alert,11/22/2023,34499,31796,native_plus_ocr_fallback,0,11
+FIN-2025-Alert003,FIN-2025-Alert003,Alert,11/28/2025,6914,4456,native_plus_ocr_fallback,0,2
+FIN-2024-Alert005,FIN-2024-Alert005,Alert,12/18/2024,29754,26962,native_plus_ocr_fallback,0,11

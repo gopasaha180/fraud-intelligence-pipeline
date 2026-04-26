@@ -1,0 +1,74 @@
+signal_keyword,signal_category
+shell company,entity_signal
+shell companies,entity_signal
+front company,entity_signal
+beneficial owner,ownership_signal
+ultimate beneficial owner,ownership_signal
+ubo,ownership_signal
+money mule,transaction_signal
+money mules,transaction_signal
+mule account,transaction_signal
+layering,transaction_signal
+structuring,transaction_signal
+smurfing,transaction_signal
+round dollar transactions,transaction_signal
+rapid movement of funds,transaction_signal
+wire transfer,payment_signal
+international wire,payment_signal
+cash withdrawal,payment_signal
+atm withdrawal,payment_signal
+prepaid card,payment_signal
+gift card,payment_signal
+zelle,payment_signal
+venmo,payment_signal
+cash app,payment_signal
+paypal,payment_signal
+peer-to-peer payment,payment_signal
+p2p payment,payment_signal
+cryptocurrency,crypto_signal
+virtual currency,crypto_signal
+crypto exchange,crypto_signal
+crypto wallet,crypto_signal
+digital wallet,crypto_signal
+wallet address,crypto_signal
+bitcoin address,crypto_signal
+ethereum address,crypto_signal
+pig butchering,crypto_signal
+rug pull,crypto_signal
+identity theft,identity_signal
+stolen identity,identity_signal
+synthetic identity,identity_signal
+account takeover,identity_signal
+credential theft,identity_signal
+compromised account,identity_signal
+unauthorized access,identity_signal
+phishing,cyber_signal
+smishing,cyber_signal
+vishing,cyber_signal
+malware,cyber_signal
+ransomware,cyber_signal
+data breach,cyber_signal
+credential stuffing,cyber_signal
+social engineering,cyber_signal
+remote access,cyber_signal
+trojan,cyber_signal
+false claim,document_signal
+false claims,document_signal
+fraudulent invoice,document_signal
+fake documentation,document_signal
+forged document,document_signal
+fabricated records,document_signal
+imposter,scam_signal
+impersonation,scam_signal
+romance scam,scam_signal
+investment scam,scam_signal
+lottery scam,scam_signal
+gift card scam,scam_signal
+advance fee,scam_signal
+urgent payment request,scam_signal
+email address,contact_signal
+phone number,contact_signal
+text message,contact_signal
+sms message,contact_signal
+telegram,contact_signal
+whatsapp,contact_signal

@@ -1,0 +1,60 @@
+# ─────────────────────────────────────────────────────────────
+# Fraud Intelligence Aggregation System — Python Dependencies
+# DSBA 6390 Practicum | UNC Charlotte × USAA
+# ─────────────────────────────────────────────────────────────
+# Install all dependencies:
+#   pip install -r requirements.txt
+#
+# Tested on Python 3.10+
+# ─────────────────────────────────────────────────────────────
+
+# ── Web scraping & HTTP ───────────────────────────────────────
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+
+# ── Data processing ───────────────────────────────────────────
+pandas>=2.0.0
+numpy>=1.24.0
+
+# ── PDF extraction ────────────────────────────────────────────
+pdfplumber>=0.10.0
+pymupdf>=1.23.0          # fitz — used in FinCEN & IC3 PDF handling
+pypdf>=3.0.0             # fallback PDF reader
+
+# ── OCR (required for scanned PDFs in IC3 annual reports) ────
+pytesseract>=0.3.10
+Pillow>=10.0.0
+
+# ── Progress display ──────────────────────────────────────────
+tqdm>=4.66.0
+
+# ── Notebook execution (orchestrator) ────────────────────────
+nbconvert>=7.0.0
+nbformat>=5.9.0
+ipykernel>=6.0.0
+
+# ── Visualisation (fraud_detector) ───────────────────────────
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# ── NLP / ML (Stage 2 — RAG, BERTopic) ──────────────────────
+# Uncomment when RAG layer is activated:
+# sentence-transformers>=2.2.0
+# bertopic>=0.16.0
+# spacy>=3.7.0
+
+# ── System dependencies (install separately) ─────────────────
+# These are OS-level packages, not pip-installable:
+#   poppler-utils  — required by pdfplumber/pdf2image
+#   tesseract-ocr  — required by pytesseract
+#
+# Ubuntu/Debian:
+#   sudo apt-get install poppler-utils tesseract-ocr
+#
+# macOS (Homebrew):
+#   brew install poppler tesseract
+#
+# Windows:
+#   Install Tesseract from https://github.com/UB-Mannheim/tesseract/wiki
+#   Install Poppler from https://github.com/oschwartz10612/poppler-windows/releases
