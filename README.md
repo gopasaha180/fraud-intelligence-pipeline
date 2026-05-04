@@ -17,10 +17,32 @@ A multi-source fraud intelligence pipeline that ingests publicly available data 
 
 ---
 
+## Pipeline Architecture
+1. Data Ingestion
+Collects data from multiple structured and unstructured sources
+2. Data Processing & Cleaning
+Normalizes formats (PDF, HTML, JSON)
+3. Fraud Detection Layer
+Applies taxonomy-based tagging and classification
+4. Signal Extraction
+Extracts key fraud indicators (emails, IPs, URLs, crypto wallets)
+5. Output Generation
+Produces structured datasets for analytics and dashboards
+
+---
+
 ## Business Impact
 - Enables centralized fraud intelligence across multiple sources
 - Improves fraud detection consistency through standardized taxonomy
 - Supports decision-making via aggregated fraud insights
+
+---
+
+## My Contribution
+- Developed fraud detection logic and signal extraction pipeline
+- Designed unified fraud taxonomy and schema across sources
+- Integrated multi-source data pipelines into a cohesive system
+- Contributed to Git-based collaboration and project deployment
 
 ---
 
