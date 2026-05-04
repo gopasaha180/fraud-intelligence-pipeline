@@ -18,15 +18,15 @@ A multi-source fraud intelligence pipeline that ingests publicly available data 
 ---
 
 ## Pipeline Architecture
-1. Data Ingestion
+1. Data Ingestion:
 Collects data from multiple structured and unstructured sources
-2. Data Processing & Cleaning
+2. Data Processing & Cleaning:
 Normalizes formats (PDF, HTML, JSON)
-3. Fraud Detection Layer
+3. Fraud Detection Layer:
 Applies taxonomy-based tagging and classification
-4. Signal Extraction
+4. Signal Extraction:
 Extracts key fraud indicators (emails, IPs, URLs, crypto wallets)
-5. Output Generation
+5. Output Generation:
 Produces structured datasets for analytics and dashboards
 
 ---
