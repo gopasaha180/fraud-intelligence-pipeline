@@ -42,7 +42,6 @@ Produces structured datasets for analytics and dashboards
 - Developed fraud detection logic and signal extraction pipeline
 - Designed unified fraud taxonomy and schema across sources
 - Integrated multi-source data pipelines into a cohesive system
-- Contributed to Git-based collaboration and project deployment
 
 ---
 
