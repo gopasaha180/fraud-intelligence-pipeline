@@ -8,19 +8,19 @@ A multi-source fraud intelligence pipeline that ingests publicly available data 
 
 ## Key Features
 
-Multi-source data ingestion (FinCEN, FTC, IC3, FBI, Reddit, industry reports)
-Data normalization into a unified schema
-NLP-based fraud detection and classification
-Fraud signal extraction (emails, URLs, IPs, crypto wallets)
-Aggregated outputs for analytics and visualization
-Streamlit-ready data pipeline for dashboard integration
+- Multi-source data ingestion (FinCEN, FTC, IC3, FBI, Reddit, industry reports)
+- Data normalization into a unified schema
+- NLP-based fraud detection and classification
+- Fraud signal extraction (emails, URLs, IPs, crypto wallets)
+- Aggregated outputs for analytics and visualization
+- Streamlit-ready data pipeline for dashboard integration
 
 ---
 
 ## Business Impact
-Enables centralized fraud intelligence across multiple sources
-Improves fraud detection consistency through standardized taxonomy
-Supports decision-making via aggregated fraud insights
+- Enables centralized fraud intelligence across multiple sources
+- Improves fraud detection consistency through standardized taxonomy
+- Supports decision-making via aggregated fraud insights
 
 ---
 
